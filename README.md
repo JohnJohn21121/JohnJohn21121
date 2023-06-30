@@ -1,7 +1,7 @@
 # Hi there! 👋 This is John ;)
 Just a simple human passionate about learning and exploring the fascinating world of technology and the human mind. I have a strong interest in machine learning and Java programming. But that's not all—I have a wide range of interests, and I'm always eager to learn.
-
-## About Me 
+<img align='right' src="https://64.media.tumblr.com/cd9d2aeda42dfacdd4c86bc18437135c/ef82e4d9cd7edf16-23/s640x960/0400f71132c27818520eda12e45c333123d36a33.gif" width="230">
+## About Me
 - 🎓 Currently learning JavaScript, TypeScript, Python, Java, and AWS.
 - 💡 Constantly seeking opportunities to expand my knowledge and skills.
 - 🤖 Exploring the exciting field of machine learning and its applications.
@@ -54,11 +54,23 @@ I'm always eager to connect with fellow developers and learners. If you'd like t
 - 🦾 Competitive Coding:
     - 🤖 [John's Training in LeetCode](https://leetcode.com/AshenJohn21121/)
     - ⚔️ [John's Training in CodeWars](https://www.codewars.com/users/KhadaJhon)
-
+-   Timezone ⏰: (GMT-3)
 
 ## | I´m Always listening to something ,come and check it out  | <img src="https://art.pixilart.com/a7329165e7c13c1.gif" alt="GIF Animado" width="50" height="35">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&redirect=true) 
+
+### <img align='right' src="https://media.tenor.com/shHUfDS793gAAAAC/katana-zero.gif"  width="400"> Current Favorite fragment from a Song | Joji - Night Rider  <br>
+Burning forever and ever, fully blazing <br>
+I don't remember no better days <br>
+You know I'm waiting, just whenever <br>
+~~Shit's~~ whatever <br>
+Burning forever and ever, fully blazing <br>
+I don't remember no better days <br>
+You know I'm waiting, just whenever <br>
+<br>
+<br>
 
 Thank you for visiting my 🌍 Little World and GitHub profile! I look forward to connecting with you. 🚀
 
-
+![](https://giffiles.alphacoders.com/162/162720.gif)
