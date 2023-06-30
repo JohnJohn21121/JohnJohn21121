@@ -20,3 +20,5 @@ I'm always eager to connect with fellow developers and learners. If you'd like t
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/juan-andres-abreu-598820181/)
 
 Thank you for visiting my 🌍 Little World and GitHub profile! I look forward to connecting with you. 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJohn21121&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
