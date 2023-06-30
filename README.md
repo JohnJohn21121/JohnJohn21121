@@ -1,8 +1,7 @@
 # Hi there! 👋 This is John ;)
+A Computer Science student passionate about learning and exploring the fascinating world of technology. I have a strong interest in Machine Learning and Java programming. But that's not all—I have a wide range of interests and I'm always eager to learn. 
 
-I'm John, a Computer Science student passionate about learning and exploring the fascinating world of technology. I have a strong interest in Machine Learning and Java programming. But that's not all—I have a wide range of interests and I'm always eager to learn. <img align="right" src="![597bb6e7cf503a23486e17c988e6ea4e](https://github.com/JohnJohn21121/JohnJohn21121/assets/53148243/dc44537a-3fe5-49e5-ac82-eb0b1decd7e0)" alt="Daredevil" width="450" height="300">
 ## About Me
-
 - 🎓 Currently learning JavaScript, TypeScript, Python, Java, and AWS.
 - 💡 Constantly seeking opportunities to expand my knowledge and skills.
 - 🤖 Exploring the exciting field of Machine Learning and its applications.
@@ -21,4 +20,7 @@ I'm always eager to connect with fellow developers and learners. If you'd like t
 
 Thank you for visiting my 🌍 Little World and GitHub profile! I look forward to connecting with you. 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
+
+## I´m Always listening to something , I just cant stay without Music come and check it out 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=0de7d9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&redirect=true)
