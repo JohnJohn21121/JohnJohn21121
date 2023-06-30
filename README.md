@@ -1,18 +1,27 @@
 # Hi there! 👋 This is John ;)
-A Computer Science student passionate about learning and exploring the fascinating world of technology. I have a strong interest in Machine Learning and Java programming. But that's not all—I have a wide range of interests and I'm always eager to learn. 
+Just a simple human passionate about learning and exploring the fascinating world of technology and the human mind. I have a strong interest in machine learning and Java programming. But that's not all—I have a wide range of interests, and I'm always eager to learn.
 
-## About Me
+## About Me 
 - 🎓 Currently learning JavaScript, TypeScript, Python, Java, and AWS.
 - 💡 Constantly seeking opportunities to expand my knowledge and skills.
-- 🤖 Exploring the exciting field of Machine Learning and its applications.
+- 🤖 Exploring the exciting field of machine learning and its applications.
 - ☕️ Enthusiastic about Java programming and developing software solutions.
 - 🌱 Committed to lifelong learning and staying up-to-date with the latest industry trends.
-- 🎨 Passionate about art, including painting and poetry.
+- 🎨 Passionate about art, including painting, poetry, writing, philosophy, cinema, any form of storytelling, or anything that conveys a qualia.
 
 ## A Technical About Me 
+
 ```Python
 aboutMe = {
    "pronouns": "he" | "him",
+   "YearofBirth": "1999" ,
+   "Nationality": "Venezuelan" ,
+   "Location" : "Buenos Aires, Argentina",
+   "Languages": {
+                "Spanish": "Native",
+                "English": "Certified B2 but I can do better than that",
+                "French": "Je suis un débutant"
+   },
    "code": ["Java", "Python", "Typescript", "HTML", "CSS", "Javascript"],
    "technologies": {
       "frontEnd": {
@@ -21,15 +30,19 @@ aboutMe = {
       },
       "backEnd": {
          "java": ["Spring", "Hibernate", "JUnit", "Mockito"],
-         "misc": ["Bash", "terraform", "Aws", "Docker", "Quarkus"]
+         "misc": ["Bash", "terraform", "Aws", "Docker", "Quarkus", "GraphQl"]
       },
-      "databases": ["MongoDB", "mySQL", "SQLServer"]
+      "databases": ["MongoDB", "mySQL", "SQLServer", , "PostgreSQL", "Oracle"]
    },
+   "Editors and Operating Systems": ["IntelliJ", "VsCode", "Eclipse", "Ubuntu"],
    "currentOccupation": ["Open for job opportunities"],
    "challenge": "I'm working towards every single Dream I chased as a kid... And Boy no one is going to stop me.",
-   "hobbies" : "Watching Movies, Drawing, Meditating, Reading, VideoGames"
+   "hobbies" : ["Watching Movies", "Drawing", "Meditating", "Reading", "VideoGames"]
 }
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Get in Touch
 
 I'm always eager to connect with fellow developers and learners. If you'd like to collaborate, discuss projects, or simply say hello, feel free to reach out to me:
@@ -42,8 +55,6 @@ I'm always eager to connect with fellow developers and learners. If you'd like t
     - 🤖 [John's Training in LeetCode](https://leetcode.com/AshenJohn21121/)
     - ⚔️ [John's Training in CodeWars](https://www.codewars.com/users/KhadaJhon)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## | I´m Always listening to something ,come and check it out  | <img src="https://art.pixilart.com/a7329165e7c13c1.gif" alt="GIF Animado" width="50" height="35">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=5l3wyqysocc08l3wbs96q8qaw&redirect=true) 
