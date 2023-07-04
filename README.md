@@ -70,6 +70,9 @@ I don't remember no better days <br>
 You know I'm waiting, just whenever <br>
 <br>
 <br>
+(I dont like to party I just enjoy the music)
+<br>
+<br>
 
 Thank you for visiting my 🌍 Little World and GitHub profile! I look forward to connecting with you. 🚀
 
