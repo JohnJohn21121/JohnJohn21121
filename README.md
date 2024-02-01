@@ -20,12 +20,12 @@ aboutMe = {
    "Languages": {
                 "Spanish": "Native",
                 "English": "Certified B2 but I can do better than that",
-                "French": "Je suis un débutant"
+                "French": "je peux parler un peu français"
    },
    "code": ["Java", "Python", "Typescript", "HTML", "CSS", "Javascript"],
    "technologies": {
       "frontEnd": {
-         "js": ["React", "Angular"],
+         "js": ["React"],
          "css": ["Bootstrap", "Semantic UI"]
       },
       "backEnd": {
